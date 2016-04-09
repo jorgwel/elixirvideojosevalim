@@ -1,0 +1,17 @@
+Atlassian Bitbucket
+"Ignore whitespace" button
+You can now ignore whitespace in diffs using the new “Ignore Whitespace” menu item.
+ Atlassian Bitbucket
+Improved pull request list
+Try a new pull requests page with improved filtering (status, target branch, ...) and a new look and feel. Enable the beta today!
+Actividad reciente Subscribe to this newsfeed
+ jorgwel
+1 commit
+Pushed to jorgwel/raml-to-grails
+17fa10a Changes, I do not know what are they related to, honestly :(
+jorgwel · 2016-02-05
+ jorgwel
+1 commit
+Pushed to jorgwel/raml-to-grails
+eeb9e01 - Some documentation added
+jorgwel · 2016-02-05
